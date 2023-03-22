@@ -1,0 +1,55 @@
+C:\Users\azert\source\repos\CeasarApp\bin\Debug\CeasarApp.exe.config
+C:\Users\azert\source\repos\CeasarApp\bin\Debug\CeasarApp.exe
+C:\Users\azert\source\repos\CeasarApp\bin\Debug\CeasarApp.pdb
+C:\Users\azert\source\repos\CeasarApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\azert\source\repos\CeasarApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\azert\source\repos\CeasarApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\azert\source\repos\CeasarApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\azert\source\repos\CeasarApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp.csprojAssemblyReference.cache
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\App.g.cs
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp_MarkupCompile.cache
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp_MarkupCompile.lref
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\App.baml
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp.g.resources
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp.Properties.Resources.resources
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp.csproj.GenerateResource.cache
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp.csproj.CoreCompileInputs.cache
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp.csproj.CopyComplete
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp.exe
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\CeasarApp.pdb
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\Views\UserControls\MainMenuUC.g.cs
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\Views\UserControls\TextEncoderUC.g.cs
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\Views\UserControls\MainMenuUC.baml
+C:\Users\azert\source\repos\CeasarApp\obj\Debug\Views\UserControls\TextEncoderUC.baml
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\bin\Debug\CeasarApp.exe.config
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\bin\Debug\CeasarApp.exe
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\bin\Debug\CeasarApp.pdb
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\bin\Debug\MaterialDesignColors.dll
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\bin\Debug\MaterialDesignColors.pdb
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp.csproj.AssemblyReference.cache
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\Views\UserControls\MainMenuUC.g.cs
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\Views\UserControls\TextEncoderUC.g.cs
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\Views\Windows\MainWindow.g.cs
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\App.g.cs
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp_MarkupCompile.cache
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp_MarkupCompile.lref
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\App.baml
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\Views\UserControls\MainMenuUC.baml
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\Views\UserControls\TextEncoderUC.baml
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\Views\Windows\MainWindow.baml
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp.g.resources
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp.Properties.Resources.resources
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp.csproj.GenerateResource.cache
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp.csproj.CoreCompileInputs.cache
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp.exe
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp.pdb
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp.csproj.SuggestedBindingRedirects.cache
+D:\любимая шарга\Технологии программирования\курсач\блятские ошибки кирилла которых нет\Проект\obj\Debug\CeasarApp.csproj.CopyComplete
